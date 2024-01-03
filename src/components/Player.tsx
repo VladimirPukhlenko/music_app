@@ -83,6 +83,7 @@ const Player = () => {
         <motion.div
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
+          viewport={{ once: true }}
           transition={{ duration: 1, delay: 1 }}
           className=" z-0 border-2 border-white/30 rounded-xl  w-[13rem] h-[8rem] sm:w-[18rem] sm:h-[10rem] martixTransform  absolute -top-7 -left-2"
         ></motion.div>
