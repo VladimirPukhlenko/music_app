@@ -81,7 +81,7 @@ export const stationsList: TStation[] = [
     name: "Drive",
     emoji: "🚗",
     links: [
-      "https://firebasestorage.googleapis.com/v0/b/melodymerge-c1f97.appspot.com/o/sleep.mp3?alt=media&token=0f52291e-dba4-4914-aeb6-47e9e26d89c2",
+      "https://firebasestorage.googleapis.com/v0/b/melodymerge-c1f97.appspot.com/o/drive.mp3?alt=media&token=0e404af4-33c6-4df1-bac9-6e7466b9936c",
     ],
   },
   {
